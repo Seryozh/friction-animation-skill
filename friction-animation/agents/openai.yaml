@@ -1,0 +1,4 @@
+interface:
+  display_name: "Friction Animation"
+  short_description: "Author and review native Friction scenes on macOS"
+  default_prompt: "Use $friction-animation to refine my Friction scene and provide a verified, playable review."
